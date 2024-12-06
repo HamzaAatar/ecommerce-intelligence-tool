@@ -43,3 +43,4 @@ venv/
 Thumbs.db
 
 .aider*
+.aider.tags.cache.v3
