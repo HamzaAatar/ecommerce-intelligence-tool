@@ -18,7 +18,7 @@ def main(output, limit):
     console = Console()
     Config.validate_config()
 
-    with console.status("[bold green]Initializing analysis...") as status:
+    with console.status("[bold green]Initializing analysis...") as _:
         try:
             # Extract websites
             websites_df = BuiltWithExtractor.extract_ecommerce_data(limit)
