@@ -142,7 +142,7 @@
 +## Installation
 +```bash
 +# Clone repository
-+git clone https://github.com/yourusername/ecommerce-intelligence-tool.git
++git clone https://github.com/HamzaAatar/ecommerce-intelligence-tool.git
 +
 +# Create virtual environment
 +python -m venv venv
@@ -210,7 +210,7 @@
 +    description='E-commerce website intelligence aggregation tool',
 +    long_description=open('README.md').read(),
 +    long_description_content_type='text/markdown',
-+    url='https://github.com/yourusername/ecommerce-intelligence-tool',
++    url='https://github.com/HamzaAatar/ecommerce-intelligence-tool',
 +    classifiers=[
 +        'Programming Language :: Python :: 3.8',
 +        'Programming Language :: Python :: 3.9',
@@ -702,7 +702,7 @@
 +## Installation
 +```bash
 +# Clone repository
-+git clone https://github.com/yourusername/ecommerce-intelligence-tool.git
++git clone https://github.com/HamzaAatar/ecommerce-intelligence-tool.git
 +
 +# Create virtual environment
 +python -m venv venv
@@ -770,7 +770,7 @@
 +    description='E-commerce website intelligence aggregation tool',
 +    long_description=open('README.md').read(),
 +    long_description_content_type='text/markdown',
-+    url='https://github.com/yourusername/ecommerce-intelligence-tool',
++    url='https://github.com/HamzaAatar/ecommerce-intelligence-tool',
 +    classifiers=[
 +        'Programming Language :: Python :: 3.8',
 +        'Programming Language :: Python :: 3.9',
@@ -1253,7 +1253,7 @@
 +## Installation
 +```bash
 +# Clone repository
-+git clone https://github.com/yourusername/ecommerce-intelligence-tool.git
++git clone https://github.com/HamzaAatar/ecommerce-intelligence-tool.git
 +
 +# Create virtual environment
 +python -m venv venv
@@ -1321,7 +1321,7 @@
 +    description='E-commerce website intelligence aggregation tool',
 +    long_description=open('README.md').read(),
 +    long_description_content_type='text/markdown',
-+    url='https://github.com/yourusername/ecommerce-intelligence-tool',
++    url='https://github.com/HamzaAatar/ecommerce-intelligence-tool',
 +    classifiers=[
 +        'Programming Language :: Python :: 3.8',
 +        'Programming Language :: Python :: 3.9',

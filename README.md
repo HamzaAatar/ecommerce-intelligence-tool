@@ -1,9 +1,11 @@
 # E-commerce Intelligence Tool
 
 ## Overview
+
 Automated tool for extracting and analyzing e-commerce website data, including Amazon marketplace presence and contact verification.
 
 ## Features
+
 - BuiltWith data extraction
 - Amazon marketplace presence validation
 - Email contact verification
@@ -11,6 +13,7 @@ Automated tool for extracting and analyzing e-commerce website data, including A
 - Rich CLI experience
 
 ## Prerequisites
+
 - Python 3.8+
 - Chrome Browser
 - API Keys:
@@ -18,9 +21,10 @@ Automated tool for extracting and analyzing e-commerce website data, including A
   - Hunter.io
 
 ## Installation
+
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ecommerce-intelligence-tool.git
+git clone https://github.com/HamzaAatar/ecommerce-intelligence-tool.git
 
 # Create virtual environment
 python -m venv venv
@@ -35,6 +39,7 @@ cp .env.example .env
 ```
 
 ## Usage
+
 ```bash
 # Basic usage
 ecommerce-tool
@@ -47,13 +52,16 @@ ecommerce-tool --limit 50
 ```
 
 ## Configuration
+
 Edit `.env` file to set:
+
 - BuiltWith API Key
 - Hunter.io API Key
 - Log level
 - Processing limits
 
 ## Contributing
+
 1. Fork repository
 2. Create feature branch
 3. Commit changes
